@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dini Nor Ida Utami</h1>
 <h3 align="center">Enthusiastic in Data Processing</h3>
 
-- 🌱 You can also check out my portfolio **https://github.com/dniu7**
+- 🌱 You can also check out my portfolio **https://github.com/dniu7** & **https://public.tableau.com/app/profile/dini.nor.ida.utami/vizzes**
 
 - 📫 How to reach me **dniu072@gmail.com**
 
